@@ -1,5 +1,7 @@
 ![alt text](https://i.ibb.co/pZFfg2Y/Untitled.png)
 
+## reply:
+
 * There are absolutely no sanity checks or validation, no exception handling, no null checks, no valid error responses to client.
 * There are absolutely no comments.
 * The manager class's interface is used as a "repository", while it's responsibility is to run the flow of the code.
